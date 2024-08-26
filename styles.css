@@ -2,4 +2,16 @@
 {
     color:red;
     font-size: 60px;
+    margin-left: 100px;
+    padding: -100px;
+}
+
+.container {
+    width: 320px;
+    height: 400px;
+    perspective: 800px;
+    margin-top: 90px;
+    float: left;
+    padding-left: 30px;
+    /*oppsettet på alt som er i containeren. containeren er selve kontaktkortet. bestemmer størrelse og plassering*/
 }
